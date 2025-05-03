@@ -67,7 +67,7 @@ void convertToPostfix(string input) {
 }
 
 int main() {
-    string input = "(2 + 3) - 5 * 4 / 5";
+    string input = "(3 * 69) / 68 + 32";
     convertToPostfix(input);
     return 0;
 }
